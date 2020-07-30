@@ -1,3 +1,5 @@
 # SEP
 
-Repo for Software Engineering and Project class.
+## Personal Fitness Trainers Club - PFTC
+
+Repo for Software Engineering and Project class. 
